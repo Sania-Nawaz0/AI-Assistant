@@ -40,8 +40,8 @@ AI-Assistant--main/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/SaniaNawaz-Dev/AI-Assistant-.git
-   cd AI-Assistant-
+   git clone https://github.com/Sania-Nawaz0/AI-Assistant.git
+   cd AI-Assistant
    ```
 
 2. **(Recommended) Create a virtual environment**
